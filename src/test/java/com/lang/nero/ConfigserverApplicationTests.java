@@ -1,4 +1,4 @@
-package com.nero.lang;
+package com.lang.nero;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
